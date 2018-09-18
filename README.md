@@ -58,7 +58,7 @@ export default {
           <td>定位时距离顶部的距离，默认保持跟firefox的实现一致</td>
         </tr>
         <tr>
-          <td>z-ndex</td>
+          <td>z-index</td>
           <td>Number</td>
           <td>10</td>
           <td>css中的z-index值</td>
